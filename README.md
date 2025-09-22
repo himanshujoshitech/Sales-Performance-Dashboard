@@ -1,9 +1,9 @@
 # Sales-Performance-Dashboard
 
-##📌 Project Objective
+📌 ##Project Objective
 The goal of this project is to design an interactive Excel Sales Performance Dashboard that enables stakeholders to:
 
-Identify top and bottom sales executives based on performance
+  Identify top and bottom sales executives based on performance
 
 Track regional sales distribution and comparisons
 
