@@ -51,3 +51,6 @@ This project addresses these issues by developing a dynamic Excel dashboard that
   6. **Dashboard Design** – Combined pivot tables and charts into a clean, user-friendly layout.
 
 
+## 📊 Dashboard Preview
+
+
