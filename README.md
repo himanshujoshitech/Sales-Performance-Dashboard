@@ -54,7 +54,9 @@ This project addresses these issues by developing a dynamic Excel dashboard that
 ## 📊 Dashboard Preview
 ### Main Dashboard
 <img width="1228" height="543" alt="Screenshot 2025-09-22 170032" src="https://github.com/user-attachments/assets/3c34678b-c162-4adf-8af5-21592a2d1e20" />
+
 ### Raw Data and Dashboard
+
 <a href="https://github.com/himanshujoshitech/Sales-Performance-Dashboard/blob/main/Excel_Dashboard_Project.xlsm">Click here</a>
 
 
