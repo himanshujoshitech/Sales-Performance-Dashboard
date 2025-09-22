@@ -53,7 +53,8 @@ This project addresses these issues by developing a dynamic Excel dashboard that
 
 ## 📊 Dashboard Preview
 ### Main Dashboard
-<img width="1366" height="768" alt="Screenshot (1097)" src="https://github.com/user-attachments/assets/eab1240c-f13a-422e-9fa6-923f5a76a412" />
+<img width="1228" height="543" alt="Screenshot 2025-09-22 170032" src="https://github.com/user-attachments/assets/3c34678b-c162-4adf-8af5-21592a2d1e20" />
+
 
 
 
