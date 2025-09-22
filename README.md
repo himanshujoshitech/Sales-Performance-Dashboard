@@ -59,5 +59,32 @@ This project addresses these issues by developing a dynamic Excel dashboard that
 <a href="https://github.com/himanshujoshitech/Sales-Performance-Dashboard/blob/main/Excel_Dashboard_Project.xlsm">sales-performance-dashboard</a>
 
 
+## 💡 Key Insights
+  - Top 5 sales executives contribute significantly to overall sales.
+
+  - Some regions outperform consistently, highlighting strong market areas.
+
+  - A subset of executives remain over 40% away from targets, requiring closer supervision.
+
+  - The checkbox functionality allows switching between dashboards seamlessly.
+
+
+## 🛠️ Tools & Technologies Used
+  - **Microsoft Excel** – Pivot Tables, Charts, Slicers
+
+  - **VBA Macros** – For dashboard interactivity
+
+  - **Data Cleaning & Structuring** – Excel formulas and formatting
+
+
+## 🚀 Future Enhancements
+  - Automate data refresh with Power Query
+
+  - Extend the dashboard into Power BI for advanced analytics
+
+  - Add forecasting models to predict future sales performance
+
+✅ With this dashboard, sales managers can gain quick, clear, and actionable insights without deep technical knowledge.
+
 
 
