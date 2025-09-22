@@ -1,2 +1,17 @@
 # Sales-Performance-Dashboard
-An interactive Excel-based sales performance dashboard with pivot tables, slicers, and VBA automation to analyze top/bottom performers, target achievements, and regional sales insights.
+
+##📌 Project Objective
+The goal of this project is to design an interactive Excel Sales Performance Dashboard that enables stakeholders to:
+
+Identify top and bottom sales executives based on performance
+
+Track regional sales distribution and comparisons
+
+Monitor target achievement % for each executive
+
+Analyze deviation from targets for improvement planning
+
+Use interactive controls (slicers and checkboxes) for dynamic analysis
+
+
+This dashboard provides actionable insights to support data-driven decision-making in sales management.
